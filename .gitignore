@@ -1,1 +1,9 @@
 security.py
+
+venv/
+
+__pycache__/
+Message/__pycache__/
+Download/__pycache__/
+
+Download/videos/
